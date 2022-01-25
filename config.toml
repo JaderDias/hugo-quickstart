@@ -1,4 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jaderdias.github.io/hugo-quickstart/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
+publishDir = "docs"
