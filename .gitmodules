@@ -1,0 +1,6 @@
+[submodule "themes/hugo-shopping-product-catalogue-simple"]
+	path = themes/hugo-shopping-product-catalogue-simple
+	url = https://github.com/kishaningithub/hugo-shopping-product-catalogue-simple.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
